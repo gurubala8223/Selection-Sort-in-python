@@ -1,0 +1,10 @@
+
+output for selection sort
+
+[1, 6, 9, 4, 5, 8]
+[1, 4, 9, 6, 5, 8]
+[1, 4, 5, 6, 9, 8]
+[1, 4, 5, 6, 9, 8]
+[1, 4, 5, 6, 8, 9]
+
+Process finished with exit code 0
